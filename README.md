@@ -21,6 +21,7 @@ A curated list of awesome human-robot interaction libraries and resources
 - [Human-Robot Interaction](https://www.cc.gatech.edu/~athomaz/classes/CS8803-HRI/Home.html) by [Andrea L. Thomaz](https://www.cc.gatech.edu/~athomaz/) at GaTech
 - [Human-Robot Interaction](https://sites.google.com/site/cse599k1/home) by [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/) at UW
 - [Safe and Interactive Robotics](https://dorsa.fyi/cs333/) by [Dorsa Sadigh](https://dorsa.fyi/) at Stanford
+- [Human-Robot Interaction: Algorithms & Experiments](http://hriclass.com/) by [Guy Hoffman] (https://hrc2.io/) at Cornell
 
 ## [Libraries](#libraries)
 
